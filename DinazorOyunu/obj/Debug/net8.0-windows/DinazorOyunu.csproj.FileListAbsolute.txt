@@ -1,0 +1,34 @@
+C:\Users\tekeb\Desktop\Görsel Programlama\DinazorOyunu\DinazorOyunu\bin\Debug\net8.0-windows\DinazorOyunu.exe
+C:\Users\tekeb\Desktop\Görsel Programlama\DinazorOyunu\DinazorOyunu\bin\Debug\net8.0-windows\DinazorOyunu.deps.json
+C:\Users\tekeb\Desktop\Görsel Programlama\DinazorOyunu\DinazorOyunu\bin\Debug\net8.0-windows\DinazorOyunu.runtimeconfig.json
+C:\Users\tekeb\Desktop\Görsel Programlama\DinazorOyunu\DinazorOyunu\bin\Debug\net8.0-windows\DinazorOyunu.dll
+C:\Users\tekeb\Desktop\Görsel Programlama\DinazorOyunu\DinazorOyunu\bin\Debug\net8.0-windows\DinazorOyunu.pdb
+C:\Users\tekeb\Desktop\Görsel Programlama\DinazorOyunu\DinazorOyunu\obj\Debug\net8.0-windows\DinazorOyunu.Form1.resources
+C:\Users\tekeb\Desktop\Görsel Programlama\DinazorOyunu\DinazorOyunu\obj\Debug\net8.0-windows\DinazorOyunu.Resource1.resources
+C:\Users\tekeb\Desktop\Görsel Programlama\DinazorOyunu\DinazorOyunu\obj\Debug\net8.0-windows\DinazorOyunu.csproj.GenerateResource.cache
+C:\Users\tekeb\Desktop\Görsel Programlama\DinazorOyunu\DinazorOyunu\obj\Debug\net8.0-windows\DinazorOyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekeb\Desktop\Görsel Programlama\DinazorOyunu\DinazorOyunu\obj\Debug\net8.0-windows\DinazorOyunu.AssemblyInfoInputs.cache
+C:\Users\tekeb\Desktop\Görsel Programlama\DinazorOyunu\DinazorOyunu\obj\Debug\net8.0-windows\DinazorOyunu.AssemblyInfo.cs
+C:\Users\tekeb\Desktop\Görsel Programlama\DinazorOyunu\DinazorOyunu\obj\Debug\net8.0-windows\DinazorOyunu.csproj.CoreCompileInputs.cache
+C:\Users\tekeb\Desktop\Görsel Programlama\DinazorOyunu\DinazorOyunu\obj\Debug\net8.0-windows\DinazorOyunu.dll
+C:\Users\tekeb\Desktop\Görsel Programlama\DinazorOyunu\DinazorOyunu\obj\Debug\net8.0-windows\refint\DinazorOyunu.dll
+C:\Users\tekeb\Desktop\Görsel Programlama\DinazorOyunu\DinazorOyunu\obj\Debug\net8.0-windows\DinazorOyunu.pdb
+C:\Users\tekeb\Desktop\Görsel Programlama\DinazorOyunu\DinazorOyunu\obj\Debug\net8.0-windows\DinazorOyunu.genruntimeconfig.cache
+C:\Users\tekeb\Desktop\Görsel Programlama\DinazorOyunu\DinazorOyunu\obj\Debug\net8.0-windows\ref\DinazorOyunu.dll
+C:\Users\tekeb\Desktop\Git Huba Yüklenecekler\DinazorOyunu\DinazorOyunu\bin\Debug\net8.0-windows\DinazorOyunu.exe
+C:\Users\tekeb\Desktop\Git Huba Yüklenecekler\DinazorOyunu\DinazorOyunu\bin\Debug\net8.0-windows\DinazorOyunu.deps.json
+C:\Users\tekeb\Desktop\Git Huba Yüklenecekler\DinazorOyunu\DinazorOyunu\bin\Debug\net8.0-windows\DinazorOyunu.runtimeconfig.json
+C:\Users\tekeb\Desktop\Git Huba Yüklenecekler\DinazorOyunu\DinazorOyunu\bin\Debug\net8.0-windows\DinazorOyunu.dll
+C:\Users\tekeb\Desktop\Git Huba Yüklenecekler\DinazorOyunu\DinazorOyunu\bin\Debug\net8.0-windows\DinazorOyunu.pdb
+C:\Users\tekeb\Desktop\Git Huba Yüklenecekler\DinazorOyunu\DinazorOyunu\obj\Debug\net8.0-windows\DinazorOyunu.Form1.resources
+C:\Users\tekeb\Desktop\Git Huba Yüklenecekler\DinazorOyunu\DinazorOyunu\obj\Debug\net8.0-windows\DinazorOyunu.Resource1.resources
+C:\Users\tekeb\Desktop\Git Huba Yüklenecekler\DinazorOyunu\DinazorOyunu\obj\Debug\net8.0-windows\DinazorOyunu.csproj.GenerateResource.cache
+C:\Users\tekeb\Desktop\Git Huba Yüklenecekler\DinazorOyunu\DinazorOyunu\obj\Debug\net8.0-windows\DinazorOyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekeb\Desktop\Git Huba Yüklenecekler\DinazorOyunu\DinazorOyunu\obj\Debug\net8.0-windows\DinazorOyunu.AssemblyInfoInputs.cache
+C:\Users\tekeb\Desktop\Git Huba Yüklenecekler\DinazorOyunu\DinazorOyunu\obj\Debug\net8.0-windows\DinazorOyunu.AssemblyInfo.cs
+C:\Users\tekeb\Desktop\Git Huba Yüklenecekler\DinazorOyunu\DinazorOyunu\obj\Debug\net8.0-windows\DinazorOyunu.csproj.CoreCompileInputs.cache
+C:\Users\tekeb\Desktop\Git Huba Yüklenecekler\DinazorOyunu\DinazorOyunu\obj\Debug\net8.0-windows\DinazorOyunu.dll
+C:\Users\tekeb\Desktop\Git Huba Yüklenecekler\DinazorOyunu\DinazorOyunu\obj\Debug\net8.0-windows\refint\DinazorOyunu.dll
+C:\Users\tekeb\Desktop\Git Huba Yüklenecekler\DinazorOyunu\DinazorOyunu\obj\Debug\net8.0-windows\DinazorOyunu.pdb
+C:\Users\tekeb\Desktop\Git Huba Yüklenecekler\DinazorOyunu\DinazorOyunu\obj\Debug\net8.0-windows\DinazorOyunu.genruntimeconfig.cache
+C:\Users\tekeb\Desktop\Git Huba Yüklenecekler\DinazorOyunu\DinazorOyunu\obj\Debug\net8.0-windows\ref\DinazorOyunu.dll
